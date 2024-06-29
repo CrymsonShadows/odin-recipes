@@ -1,0 +1,26 @@
+/* color pallete https://colorhunt.co/palette/f3ca52f6e9b20a68477aba78*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(246, 233, 178);
+}
+
+h1 {
+    color: rgb(10, 104, 71);
+    text-align: center;
+}
+
+h2 {
+    color: rgb(10, 104, 71);
+}
+
+ul {
+    list-style-type: circle;
+}
+
+.ingredients {
+    list-style-type: initial;
+}
+
+a {
+    color: rgb(10, 104, 71);
+}
